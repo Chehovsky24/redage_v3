@@ -902,13 +902,13 @@ namespace NeptuneEvo.Chars
                 {//Man 
                     { ClothesComponent.Hat, 247 }, //+
                     { ClothesComponent.Torsos, 215 }, 
-                    { ClothesComponent.Legs, 222 },  //+
-                    { ClothesComponent.Shoes, 160 }, //+
-                    { ClothesComponent.Accessories, 201 }, //+
-                    { ClothesComponent.BodyArmors, 62 }, 
-                    { ClothesComponent.Tops, 589 }, // +
-                    { ClothesComponent.Undershirts, 216 }, 
-                    { ClothesComponent.Masks, 247 },//+
+                    { ClothesComponent.Legs, 230 },  //+
+                    { ClothesComponent.Shoes, 162 }, //+
+                    { ClothesComponent.Accessories, 203 }, //+
+                    { ClothesComponent.BodyArmors, 65 }, 
+                    { ClothesComponent.Tops, 612 }, // +
+                    { ClothesComponent.Undershirts, 222 }, 
+                    { ClothesComponent.Masks, 249 },//+
                     { ClothesComponent.Ears, 42 }, 
                     { ClothesComponent.Watches, 49}, //+
                     { ClothesComponent.Glasses, 59 }, 
@@ -917,20 +917,20 @@ namespace NeptuneEvo.Chars
 
                     { ClothesComponent.Bracelets, 16 }, 
      
-                    { ClothesComponent.Decals, 258 }, 
+                    { ClothesComponent.Decals, 274 }, 
                 } 
             }, 
             { false, new Dictionary<ClothesComponent, int>() 
                 { 
                     { ClothesComponent.Hat, 246 }, //+
                     { ClothesComponent.Torsos, 249 }, 
-                    { ClothesComponent.Legs, 235 },  //+
-                    { ClothesComponent.Shoes, 168 }, //+
-                    { ClothesComponent.Accessories, 171 }, //a
-                    { ClothesComponent.BodyArmors, 62 }, 
-                    { ClothesComponent.Tops, 632 }, //+
-                    { ClothesComponent.Undershirts, 262 }, 
-                    { ClothesComponent.Masks,  248}, //+
+                    { ClothesComponent.Legs, 243 },  //+
+                    { ClothesComponent.Shoes, 170 }, //+
+                    { ClothesComponent.Accessories, 173 }, //a
+                    { ClothesComponent.BodyArmors, 65 }, 
+                    { ClothesComponent.Tops, 655 }, //+
+                    { ClothesComponent.Undershirts, 267 }, 
+                    { ClothesComponent.Masks,  250}, //+
                     { ClothesComponent.Ears, 23 }, 
                     { ClothesComponent.Watches, 38 }, //+
                     { ClothesComponent.Glasses, 61 }, //+
@@ -939,7 +939,7 @@ namespace NeptuneEvo.Chars
 
                     { ClothesComponent.Bracelets, 23 }, 
      
-                    { ClothesComponent.Decals, 275 }, 
+                    { ClothesComponent.Decals, 291 }, 
                 }
             },
         }; 
